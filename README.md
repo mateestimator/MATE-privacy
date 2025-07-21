@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>MATE Estimator Privacy Policy</title>
 </head>
 <body>
   <h1>Privacy Policy for MATE Estimator</h1>
